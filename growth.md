@@ -1,0 +1,3 @@
+Personal growth stems from humility and self-reflection.  It is a mind set that requires one to recognize that they have faults and imperfections in the first place, and to figure out a path to rectify those flaws to forge themselves into a held ideal.  It is a perpetuating process that should never be allowed to stagnate.
+
+As we move forward with this class, I will endeavor not to let failures get the best of me.  I will reflect on them and use the lessons learned to hone my skills even further.  I may know next to nothing about programming right now, but if I put in the effort I will definitely become skilled.
